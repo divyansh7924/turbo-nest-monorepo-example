@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.workingDirectories": ["./"],
+  "eslint.debug": true,
+  "eslint.runtime": "node",
+  "xmlTools.splitAttributesOnFormat": true,
+  "xmlTools.enforcePrettySelfClosingTagOnFormat": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": ["eevee", "nestjs"]
+}
